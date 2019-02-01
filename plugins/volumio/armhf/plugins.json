@@ -421,6 +421,24 @@
 						}
 					],
 					"updated": "16-11-2018"
+				},
+				{
+					"prettyName": "Neeo Helper",
+					"icon": "fa-lightbulb-o",
+					"name": "neeo_helper",
+					"version": "0.0.1",
+					"url": "http://volumio.github.io/volumio-plugins/plugins/volumio/armhf/miscellanea/neeo_helper/neeo_helper.zip",
+					"license": "ISC",
+					"description": "Neeo helper module to allow control of volumio from neeo.",
+					"details": "Control Volumio from neeo",
+					"author": "Vincent Boots",
+					"screenshots": [
+						{
+							"image": "",
+							"thumb": ""
+						}
+					],
+					"updated": "1-2-2019"
 				}
 			]
 		},
